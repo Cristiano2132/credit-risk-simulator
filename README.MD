@@ -1,9 +1,3 @@
-Com certeza! Como você já tem um simulador robusto focado em métricas de **Probability of Default (PD)**, o README precisa refletir essa maturidade técnica, explicando não só como rodar o código, mas o embasamento teórico (KS, AUC, TPR vs FPR) que discutimos.
-
-Aqui está uma proposta de `README.md` bem estruturada:
-
----
-
 # 🛡️ Credit Risk Model Simulator (PD Analytics)
 
 Este é um simulador interativo desenvolvido em **Streamlit** para visualização e validação de métricas de classificação em modelos de **Risco de Crédito (Probability of Default)**.
